@@ -1,0 +1,99 @@
+Name	Email	Company	Title
+Emma Stepcic	estepcic@slb.com	Schlumberger	Finance Controller (Global Oilfield Logistics & Distribution)
+Mohammad Assagaf	massagaf@slb.com	Schlumberger	Field Service Manager
+Ahmad Asadullah	aasadullah@slb.com	Schlumberger	Business Process Manager
+Muhammad Waqas	mwaqas@slb.com	Schlumberger	Senior Geophysicist
+Saira Menon	smenon@slb.com	Schlumberger	Tax Manager Headquarters & Uae
+Maleek Misbah	mmisbah@slb.com	Schlumberger	"Planning Manager - Middle East, Asia & Australia Region"
+Ahmed Salman	asalman@slb.com	Schlumberger	Seeking A Career
+Nassrine Charbonnier	ncharbonnier@slb.com	Schlumberger	Sourcing Leader
+Christopher Okuku	cokuku@slb.com	Schlumberger	Senior Reservoir Petrophysicist
+Yousif Al	yal@slb.com	Schlumberger	Field Engineer
+Feraz Hosein	fhosein@slb.com	Schlumberger	Ipm Business Development Manager: Me
+Leigh Foreman	lforeman@slb.com	Schlumberger	Region Manager - Geoservices - Asia Area
+Mehnaz Mahmood	mmahmood@slb.com	Schlumberger	Change Management Lead - Transport Management System (Project)
+Hatem Wahba	hwahba@slb.com	Schlumberger	Solution Architect
+Elmer Ramenda	eramenda@slb.com	Schlumberger	Contracts & Tenders Analyst
+Farhana Sethi	fsethi@slb.com	Schlumberger	It Services Systems Specialist
+Thein Phyoe	tphyoe@slb.com	Schlumberger	Sales And Technical Engineer
+Jeff Roy	jroy@slb.com	Schlumberger	It Analyst
+Safdar Lodi	slodi@slb.com	Schlumberger	Wsfs
+Sergio Barrionuevo	sbarrionuevo@slb.com	Schlumberger	Geophysicist
+Owoade Oladepo Yussuff	oyussuff@slb.com	Schlumberger	Hr Transactions Administrator
+Roman Galvan	rgalvan@slb.com	Schlumberger	Mlc Senior Measurements Instructor
+Bayin Matvenova	bmatvenova@slb.com	Schlumberger	Global Internal Audit - Information Technology Schlumberger
+Anil Kuppa	akuppa@slb.com	Schlumberger	Enterprise Architect
+Catrina De Matos	cmatos@slb.com	Schlumberger	Production Manager
+Haris Ahmed Siddiqui	hsiddiqui@slb.com	Schlumberger	Access Engineer
+Hector De La Garza Valero	hvalero@slb.com	Schlumberger	Equipment Assurance Sustaining Specialist - Hq
+Ahmad Farid	afarid@slb.com	Schlumberger	Busines Development Architect
+Rakesh Pathak	rpathak@slb.com	Schlumberger	"Sales Manager, Well Services"
+Sohail Banihashemi	sohail@slb.com	Schlumberger	It Support Specialist L4 / Project Manager
+Sukanya Donthireddy	sdonthireddy@slb.com	Schlumberger	Hris Analyst
+Theresa Theresa Monteiro	tmonteiro@slb.com	Schlumberger	Internal Audit Administrator
+Norizah Othman	nothman@slb.com	Schlumberger	Facilities Lead - Pilot Area Development Study For Russia Field
+Priya Koshy	pkoshy@slb.com	Schlumberger	International Staff Payroll Advisor
+Rayan Salih	rsalih@slb.com	Schlumberger	"Cipd, Bsc,Hr Transactions Analyst"
+Stephen Mcmahon	smcmahon@slb.com	Schlumberger	Executive Assistant
+Vinit Pednekar	vpednekar@slb.com	Schlumberger	Supply Chain Specialist
+Qaiser Hassan	qhassan@slb.com	Schlumberger	Systems Developer
+Abdul Wahab Azrak	aazrak@slb.com	Schlumberger	Marketing & Sales Manager
+Slobodan Stojic	sstojic@slb.com	Schlumberger	Senior Reservoir Geologist - Geology And Petrophysics Team Leader -Mea
+Roger Princeley	rprinceley@slb.com	Schlumberger	Global Distributed Servers Engineer
+Martin Hartlieb	mhartlieb@slb.com	Schlumberger Information Solutions	Mea Competence Center - Production Solutions Consultant
+Mehul Shinde	mshinde@slb.com	Schlumberger	Freight Specialist - Middle East (Logistics Projects)
+Anirudh Bajaj	abajaj@slb.com	Schlumberger	Field Engineer
+Luis Alonso Leon Orozco	lorozco@slb.com	Schlumberger	Field Engineer
+Ray Lobo	rlobo@slb.com	Schlumberger	Merak Consultant
+Aftab Jameel	ajameel@slb.com	Schlumberger	Erp Support Lead
+Nawel Bouzit	nbouzit@slb.com	Schlumberger	Compensation & Benefits Manager - Gcc Countries
+James Cade	jcade@slb.com	Schlumberger	Wireline Instructor
+Suvodip Dasgupta	sdasgupta@slb.com	Schlumberger	Petrophysicist
+James Henderson	jhenderson@slb.com	Mi Swaco	Snr Applications Engineer
+Vaibhav Mathur	vmathur@slb.com	Schlumberger	Project Coordinator
+Mohamed Diaa	mdiaa@slb.com	Schlumberger	Manager
+Asif Malik	amalik@slb.com	Schlumberger	Mea Sourcing Manager
+Omair Hameed	ohameed@slb.com	Schlumberger Information Solutions	"Business Manager - Planning, Risk & Reserves (Gulf Region)"
+Yasmina Bardawil	ybardawil@slb.com	Schlumberger	Compensation Analyst - Middle East
+Jokha Busaidi	jbusaidi@slb.com	Schlumberger	Wl Instructor
+Sneha Pujari	spujari@slb.com	Schlumberger	Sme Accountant
+Janice Cabague	jcabague@slb.com	M-I Swaco	Es Sales Supervisor
+Dani Antanyos	dantanyos@slb.com	Schlumberger	Ose Operation Support Engineer
+Rajsheel Gowrishetty	rgowrishetty@slb.com	Schlumberger	Hyperion Analyst
+Justin Thadikkal	jthadikkal@slb.com	Schlumberger	It Helpdesk Team Lead
+Nigar Aliyeva	naliyeva@slb.com	Schlumberger	Internal Auditor
+Subrata Chakraborty	schakraborty@slb.com	Schlumberger	G&G Advisor Mea
+Shyam Sundar Sankara Narayanan	snarayanan@slb.com	Schlumberger	Senior Project Engineer
+Areej Al Kayyali	akayyali@slb.com	Schlumberger	Senior Servers Infrastructure Specialist
+Othman Al Badi	obadi@slb.com	Westerngeco Co	Processing Geophysicist
+Umesh Bhimani	ubhimani@slb.com	Schlumberger	Coldfusion Consultant (Project Co-Ordinator)
+Abrar Sharif	abrar@slb.com	Next Schlumberger	Web Marketing And Graphics Specialist
+Tiago Freitas	tfreitas@slb.com	Schlumberger	Project Engineer
+Mark Douglas	mdouglas@slb.com	Schlumberger	Vice President Middle East For Software Integrated Solutions
+Muhammad Farooq	mfarooq@slb.com	Schlumberger	Operations Support Engineer
+Rosanna Mathias	rmathias@slb.com	Schlumberger	It-Finance Analyst
+Petr Vakatov	pvakatov@slb.com	Schlumberger	Internal Auditor
+Faiza Ameen	fameen@slb.com	Schlumberger	Hr-It Analyst
+Rekha Vishwanath	rvishwanath@slb.com	Schlumberger	"Internal Audit Manager, Middle East And Asia"
+Malcolm Warr	mwarr@slb.com	Schlumberger	Chairman Tranzparency Group
+Nisha Nandanan	nnandanan@slb.com	Schlumberger	Fluid Analysis Specialist
+Walid Labaky	wlabaky@slb.com	Schlumberger Middle East S A	Head
+Mohamed Aboodi	maboodi@slb.com	Schlumberger	General Field Engineer
+Salam Chouery	schouery@slb.com	Schlumberger	Quality Operations Support Manager Middle East Area
+Winner Ekwue	wekwue@slb.com	Schlumberger	Senior Field Engineer
+Qaisar Mahmood	qmahmood@slb.com	Schlumberger	Dubai Hq It Team Lead
+Inna Yun	iyun@slb.com	Schlumberger	"Compensation& Benefits Analyst, India And Sudan"
+Rolf Herrmann	rherrmann@slb.com	Schlumberger	Technical Manager
+Kjell Revheim	krevheim@slb.com	Slb	It Project Manager
+Mauricio Aponte Torres	mtorres@slb.com	Schlumberger	Pts Business Systems Engineer
+Anna Lee Go	ago@slb.com	Schlumberger	Emg Recruiting And Staffing Coordinator
+Gyuzel Shabaykina	gshabaykina@slb.com	Schlumberger	Business System Analyst
+Hao Ran	hran@slb.com	Schlumberger	Field Engineer
+Rohan Bhat	rbhat@slb.com	Schlumberger	General Field Engineer
+Jamil Akili	jakili@slb.com	Schlumberger Information Solutions	General Manager - Sis
+Terry Hergika	thergika@slb.com	Schlumberger	Hr - International Staff Benefits Advisor
+Francois Grossard	fgrossard@slb.com	Schlumberger	Hr Information Systems Manager
+Ali Hassnain Shirazi	ashirazi@slb.com	Schlumberger	Management Consultant
+Atif Jamil	atif@slb.com	Schlumberger	Technical Manager
+Nazim Mohd	nmohd@slb.com	Schlumberger	Management Accountant
+Olivia Yu	oyu@slb.com	M-I Swaco	Es Sales Coordinator/Esquotation Specialist

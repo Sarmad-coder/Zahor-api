@@ -1,0 +1,18 @@
+Name	Company	Job Title	Email
+Nasser Saif Al Mansoori	Etihad Rail Company P J S C	Director	nasser.mansoori@etihadrail.ae
+Anthony Pickett	Etihad Rail	Engineering And Construction Safety Director	anthony.pickett@etihadrail.ae
+Eugenio Alvarez	Etihad Rail	Track & Facilities Director	eugenio.alvarez@etihadrail.ae
+Michael Van Drogenbroek	Etihad Rail	"Director, Railway Planning"	michael.drogenbroek@etihadrail.ae
+Khaled Bin Faisal	Etihad Rail	Administration Director	khaled.faisal@etihadrail.ae
+Ian Grannan	Etihad Rail	It Director	ian.grannan@etihadrail.ae
+Rob Webb	Etihad Rail	Compliance Director - Hse	rob.webb@etihadrail.ae
+Ronald Joncas	Etihad Rail	Program Director	ronald.joncas@etihadrail.ae
+Saeed Alsuwaidi	Etihad Rail	Security Director	saeed.alsuwaidi@etihadrail.ae
+Ahmed Eldamanhoury	Etihad Rail	Quality Director	ahmed.eldamanhoury@etihadrail.ae
+Shaun Mycock	Etihad Rail	Fleet Director	shaun.mycock@etihadrail.ae
+Didier Leperou	Etihad Rail	Experienced Engineering Railway Director	didier.leperou@etihadrail.ae
+Nooh Al Hammadi	Etihad Rail	Acting Commercial Director	nooh.hammadi@etihadrail.ae
+Shamma Alqubaisi	Etihad Rail	Human Resources Director	shamma.alqubaisi@etihadrail.ae
+Richard Bowker	Etihad Rail	Chief Executive	richard.bowker@etihadrail.ae
+Jean-Christophe Chuniaud	Etihad Rail	Director - Engineering And Construction - Projects Business Unit	jean-christophe.chuniaud@etihadrail.ae
+John Arthur Lesniewski	Etihad Railway	Etihad Railway - A/Executive Director - Commercial And Operations	john.lesniewski@etihadrail.ae
